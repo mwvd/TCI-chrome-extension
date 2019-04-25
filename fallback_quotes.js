@@ -1,7 +1,7 @@
 var fallbackData =
 [
    {
-      "text":"I’m interested in validating all forms of research, whether it’s questioning a neighbor or looking at an institutional archive or creating your own archive and then sharing that with people.",
+      "text":"I'm interested in validating all forms of research, whether it's questioning a neighbor or looking at an institutional archive or creating your own archive and then sharing that with people.",
       "quotee":"Kameelah Janan Rasheed",
       "post":{
          "url":"https://thecreativeindependent.com/people/kameelah-janan-rasheed-on-research-and-archiving/",
@@ -9,7 +9,7 @@ var fallbackData =
       }
    },
    {
-      "text":"I read this study a couple years ago that was saying how announcing that you’re going to do something, or sharing your plans, when you get positive affirmations on that, your brain releases the same chemicals as it would as if you had actually done the actions. It kind of explained why people liked to share what they want to do so much on social media, and how maybe that is discouraging us from actually following through on our plans a lot of times, whether it’s a New Year’s resolution, or the kind of art you want to make, or even for non-artists, just other plans ... I think putting action behind our plans is most important.",
+      "text":"I read this study a couple years ago that was saying how announcing that you're going to do something, or sharing your plans, when you get positive affirmations on that, your brain releases the same chemicals as it would as if you had actually done the actions. It kind of explained why people liked to share what they want to do so much on social media, and how maybe that is discouraging us from actually following through on our plans a lot of times, whether it's a New Year's resolution, or the kind of art you want to make, or even for non-artists, just other plans ... I think putting action behind our plans is most important.",
       "quotee":"Katie Alice Greer",
       "post":{
          "url":"https://thecreativeindependent.com/people/katie-alice-greer-on-why-all-art-is-political/",
@@ -17,7 +17,7 @@ var fallbackData =
       }
    },
    {
-      "text":"For me, it’s just going on walks by myself. I’ve been doing this lately, I go on a walk or I’ll walk my dog and leave my phone at home. And it’s been really weird! Because I look around and find that I’m like everyone else. I’m always staring at a screen. I’m part of the problem, you know?",
+      "text":"For me, it's just going on walks by myself. I've been doing this lately, I go on a walk or I'll walk my dog and leave my phone at home. And it's been really weird! Because I look around and find that I'm like everyone else. I'm always staring at a screen. I'm part of the problem, you know?",
       "quotee":"George Clarke",
       "post":{
          "url":"https://thecreativeindependent.com/people/george-clarke-on-slowing-down/",
@@ -49,7 +49,7 @@ var fallbackData =
       }
    },
    {
-      "text":"It’s both freeing and depressing to remember that people aren’t thinking about you that much.",
+      "text":"It's both freeing and depressing to remember that people aren't thinking about you that much.",
       "quotee":"Melissa Broder",
       "post":{
          "url":"https://thecreativeindependent.com/people/melissa-broder-on-the-difference-between-poetry-and-twitter/",
@@ -57,7 +57,7 @@ var fallbackData =
       }
    },
    {
-      "text":"I end up always going back there, dragged back there in a way, and then it’s just a matter of never, ever repeating myself. I know that seems really weird because, like you said, everybody thinks I write about the same thing every time, but every single book is completely from scratch.",
+      "text":"I end up always going back there, dragged back there in a way, and then it's just a matter of never, ever repeating myself. I know that seems really weird because, like you said, everybody thinks I write about the same thing every time, but every single book is completely from scratch.",
       "quotee":"Dennis Cooper",
       "post":{
          "url":"https://thecreativeindependent.com/people/dennis-cooper-on-writing-as-sculpture/",
@@ -89,7 +89,7 @@ var fallbackData =
       }
    },
    {
-      "text":"It’s a pleasurable thing to do, and when I don’t want to do it, I don’t. I take three or four day breaks at least once a month, and people don’t notice, because I don’t make a big announcement. I think too many people make huge announcements, ‘I’m leaving social media.’ When I hit my limit, which I do regularly, I just don’t go on Twitter for four days. It’s fine. I choose when I want to be part of social media.",
+      "text":"It's a pleasurable thing to do, and when I don't want to do it, I don't. I take three or four day breaks at least once a month, and people don't notice, because I don't make a big announcement. I think too many people make huge announcements, ‘I'm leaving social media.' When I hit my limit, which I do regularly, I just don't go on Twitter for four days. It's fine. I choose when I want to be part of social media.",
       "quotee":"Roxane Gay",
       "post":{
          "url":"https://thecreativeindependent.com/people/roxane-gay-on-the-importance-of-storytelling/",
@@ -105,7 +105,7 @@ var fallbackData =
       }
    },
    {
-      "text":"Not wanting to be rich gives me a lot more flexibility … I can’t be convinced to not speak up because I might not have this opportunity or whatever. I’m like, ‘Do you have the qualities that I’m trying to nurture in myself?’",
+      "text":"Not wanting to be rich gives me a lot more flexibility … I can't be convinced to not speak up because I might not have this opportunity or whatever. I'm like, ‘Do you have the qualities that I'm trying to nurture in myself?'",
       "quotee":"Kenya (Robinson)",
       "post":{
          "url":"https://thecreativeindependent.com/people/kenya-robinson-on-creating-your-own-opportunities/",
@@ -113,7 +113,7 @@ var fallbackData =
       }
    },
    {
-      "text":"Right now I feel compelled to document as much as possible. Every day there’s something catastrophic happening. ... A lot of the artwork, or a lot of the writing, becomes important afterwards, when we look back. That’s a very old-fashioned idea of art as witness, art as a document, but that’s really important. You think about right now, as we’re trying to find clarity, we’re going back.",
+      "text":"Right now I feel compelled to document as much as possible. Every day there's something catastrophic happening. ... A lot of the artwork, or a lot of the writing, becomes important afterwards, when we look back. That's a very old-fashioned idea of art as witness, art as a document, but that's really important. You think about right now, as we're trying to find clarity, we're going back.",
       "quotee":"Cathy Park Hong",
       "post":{
          "url":"https://thecreativeindependent.com/people/cathy-park-hong-on-finding-clarity-through-art-&-poetry-within-our-political-landscape/",
@@ -129,7 +129,7 @@ var fallbackData =
       }
    },
    {
-      "text":"I am a person who is very, very public about their anxiety. It’s something that I felt really strongly about communicating to others because I think especially as a person who is seen, I want people to understand that all of my wellness is worked for. I don’t wake up like this. I have a huge support system of people who keep me regular and are an ear when I need one. I would be nothing without the people who are doing that work for me.",
+      "text":"I am a person who is very, very public about their anxiety. It's something that I felt really strongly about communicating to others because I think especially as a person who is seen, I want people to understand that all of my wellness is worked for. I don't wake up like this. I have a huge support system of people who keep me regular and are an ear when I need one. I would be nothing without the people who are doing that work for me.",
       "quotee":"David Byrne",
       "post":{
          "url":"http://thecreativeindependent.com/people/david-byrne-on-not-being-afraid-to-fail/",
@@ -137,7 +137,7 @@ var fallbackData =
       }
    },
    {
-      "text":"It’s pleasurable to read and write about confusion because that’s what we do as people. We are often confused.",
+      "text":"It's pleasurable to read and write about confusion because that's what we do as people. We are often confused.",
       "quotee":"Lynn Tillman",
       "post":{
          "url":"https://thecreativeindependent.com/people/lynne-tillman-on-what-it-actually-means-to-be-a-writer/",
@@ -145,7 +145,7 @@ var fallbackData =
       }
    },
    {
-      "text":"It always reminds me of growing up—we had these cicadas in the backyard and at a certain time of year you’d see these little empty cicada shells still clinging to the trees. To me the art ‘product’—whatever that is—feels a little bit like that cicada shell. It’s the residue of a process that’s left the building.",
+      "text":"It always reminds me of growing up—we had these cicadas in the backyard and at a certain time of year you'd see these little empty cicada shells still clinging to the trees. To me the art ‘product'—whatever that is—feels a little bit like that cicada shell. It's the residue of a process that's left the building.",
       "quotee":"Neil Goldberg",
       "post":{
          "url":"https://thecreativeindependent.com/people/neil-goldberg-on-process-and-performance/",
